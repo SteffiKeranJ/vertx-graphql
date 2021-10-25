@@ -1,4 +1,4 @@
-= Graphql
+= Graphql with Vertx
 
 image:https://img.shields.io/badge/vert.x-4.1.5-purple.svg[link="https://vertx.io"]
 
@@ -28,4 +28,4 @@ To run your application:
 * https://groups.google.com/forum/?fromgroups#!forum/vertx[Vert.x User Group]
 * https://gitter.im/eclipse-vertx/vertx-users[Vert.x Gitter]
 
-
+Inspired by: https://www.redpill-linpro.com/techblog/2021/05/17/intro-to-graphql-with-vertx.html
